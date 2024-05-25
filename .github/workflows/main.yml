@@ -1,4 +1,4 @@
-name: Like Bot
+name: Run Python Script
 
 on:
   push:
